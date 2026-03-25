@@ -1,5 +1,5 @@
 # CANCER-PREDICTION
-# t Cancer Classification Project
+#  Cancer Classification Project
 
 This project aims to classify breast cancer tumors as Malignant (M) or Benign (B) using the Breast Cancer Wisconsin (Diagnostic) Dataset.
 
